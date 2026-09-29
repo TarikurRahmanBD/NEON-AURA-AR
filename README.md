@@ -54,7 +54,7 @@ This project was created by Tarikur Rahman.
 
 - Name: Tarikur Rahman
 - GitHub: https://github.com/tarikurrahmanbd
-- Portfolio: https://yourtarikur.netlify.app/
+- Portfolio: https://yourtarikur.vercel.app/
 - Social/Handle: tarikurrahman08
 - Email: tarikurrahman2008@gmail.com
 
